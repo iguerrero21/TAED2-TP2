@@ -1,8 +1,7 @@
 /**************************************************************
  * Asignatura: Taller de Algoritmos y Estructuras de Datos II
- * Ano: 2023
- * Nombre: Ignacio Guerrero
- * Legajo: VINF 012729
+ * Año: 2023
+ * @author: Ignacio Guerrero
  *************************************************************/
 
 /**
